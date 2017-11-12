@@ -3,7 +3,7 @@ import moment from 'moment';
 import expenses from '../fixtures/expenses';
 
 
-test('should filter by text vaule', () => {
+test('should filter by text value', () => {
 
   const filters = {
     text: 'e',
